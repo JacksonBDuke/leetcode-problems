@@ -11,10 +11,12 @@ namespace StringToInteger
                 "    -35234245-04582sdf",
                 "",
                 "-",
-                "\n"
+                "\n",
+                "           9999999999999999999asdf",
+                "   -999999999999999999999999asdf"
             };
             foreach(string s in testcases){
-                Console.WriteLine("" + MyAtoi(s));
+                Console.WriteLine(MyAtoi(s));
             }
         }
 
@@ -27,11 +29,10 @@ namespace StringToInteger
 
             if(str[0] == '-'){
                 negator = -1;
+                str = str.Substring(1);
             }
 
             if(str.Length > 1){
-                str = str.Substring(1);
-
                 foreach(char c in str){
                     int charInt = CharToInt(c);
                     if(IsValid(charInt)){
@@ -40,7 +41,7 @@ namespace StringToInteger
                                 ret = 10 * ret + charInt;
                             }
                             catch(OverflowException){
-                                return ret > 0 ? int.MinValue : int.MaxValue;
+                                return negator > 0 ? int.MaxValue : int.MinValue;
                             }
                         }
                     }
