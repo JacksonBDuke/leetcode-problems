@@ -1,0 +1,11 @@
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/obj/Debug/netcoreapp2.0/ReverseInteger.csprojAssemblyReference.cache
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/obj/Debug/netcoreapp2.0/ReverseInteger.csproj.CoreCompileInputs.cache
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/obj/Debug/netcoreapp2.0/ReverseInteger.AssemblyInfoInputs.cache
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/obj/Debug/netcoreapp2.0/ReverseInteger.AssemblyInfo.cs
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/bin/Debug/netcoreapp2.0/ReverseInteger.deps.json
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/bin/Debug/netcoreapp2.0/ReverseInteger.runtimeconfig.json
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/bin/Debug/netcoreapp2.0/ReverseInteger.runtimeconfig.dev.json
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/bin/Debug/netcoreapp2.0/ReverseInteger.dll
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/bin/Debug/netcoreapp2.0/ReverseInteger.pdb
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/obj/Debug/netcoreapp2.0/ReverseInteger.dll
+/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/obj/Debug/netcoreapp2.0/ReverseInteger.pdb

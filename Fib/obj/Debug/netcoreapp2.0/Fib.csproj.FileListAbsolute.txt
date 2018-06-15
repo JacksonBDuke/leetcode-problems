@@ -1,0 +1,11 @@
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/obj/Debug/netcoreapp2.0/Fib.csprojAssemblyReference.cache
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/obj/Debug/netcoreapp2.0/Fib.csproj.CoreCompileInputs.cache
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/obj/Debug/netcoreapp2.0/Fib.AssemblyInfoInputs.cache
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/obj/Debug/netcoreapp2.0/Fib.AssemblyInfo.cs
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/bin/Debug/netcoreapp2.0/Fib.deps.json
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/bin/Debug/netcoreapp2.0/Fib.runtimeconfig.json
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/bin/Debug/netcoreapp2.0/Fib.runtimeconfig.dev.json
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/bin/Debug/netcoreapp2.0/Fib.dll
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/bin/Debug/netcoreapp2.0/Fib.pdb
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/obj/Debug/netcoreapp2.0/Fib.dll
+/home/jackson/gitstuff/csharp/leetcodeproblems/Fib/obj/Debug/netcoreapp2.0/Fib.pdb
