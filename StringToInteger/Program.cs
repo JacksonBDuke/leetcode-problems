@@ -7,8 +7,8 @@ namespace StringToInteger
         static void Main(string[] args)
         {
             string[] testcases = new string[]{
-                "                    24935wefd",
-                "    -35234245-04582sdf",
+                "1",
+                "0",
                 "",
                 "-",
                 "\n",
@@ -31,8 +31,12 @@ namespace StringToInteger
                 negator = -1;
                 str = str.Substring(1);
             }
+            else if(str[0] == '+'){
+                negator = 1;
+                str = str.Substring(1);
+            }
 
-            if(str.Length > 1){
+            if(str.Length >= 1){
                 foreach(char c in str){
                     int charInt = CharToInt(c);
                     if(IsValid(charInt)){
