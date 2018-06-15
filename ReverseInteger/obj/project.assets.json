@@ -664,28 +664,30 @@
     ]
   },
   "packageFolders": {
-    "/home/jackson/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Jackson\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/ReverseInteger.csproj",
+      "projectUniqueName": "m:\\Users\\Jackson\\Documents\\GitStuff\\leetcode-problems\\ReverseInteger\\ReverseInteger.csproj",
       "projectName": "ReverseInteger",
-      "projectPath": "/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/ReverseInteger.csproj",
-      "packagesPath": "/home/jackson/.nuget/packages/",
-      "outputPath": "/home/jackson/gitstuff/csharp/leetcodeproblems/ReverseInteger/obj/",
+      "projectPath": "m:\\Users\\Jackson\\Documents\\GitStuff\\leetcode-problems\\ReverseInteger\\ReverseInteger.csproj",
+      "packagesPath": "C:\\Users\\Jackson\\.nuget\\packages\\",
+      "outputPath": "m:\\Users\\Jackson\\Documents\\GitStuff\\leetcode-problems\\ReverseInteger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/jackson/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Jackson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

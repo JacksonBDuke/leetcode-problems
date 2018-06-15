@@ -9,3 +9,14 @@
 /home/jackson/gitstuff/csharp/leetcodeproblems/Fib/bin/Debug/netcoreapp2.0/Fib.pdb
 /home/jackson/gitstuff/csharp/leetcodeproblems/Fib/obj/Debug/netcoreapp2.0/Fib.dll
 /home/jackson/gitstuff/csharp/leetcodeproblems/Fib/obj/Debug/netcoreapp2.0/Fib.pdb
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\bin\Debug\netcoreapp2.0\Fib.deps.json
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\bin\Debug\netcoreapp2.0\Fib.runtimeconfig.json
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\bin\Debug\netcoreapp2.0\Fib.runtimeconfig.dev.json
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\bin\Debug\netcoreapp2.0\Fib.dll
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\bin\Debug\netcoreapp2.0\Fib.pdb
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\obj\Debug\netcoreapp2.0\Fib.csprojAssemblyReference.cache
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\obj\Debug\netcoreapp2.0\Fib.csproj.CoreCompileInputs.cache
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\obj\Debug\netcoreapp2.0\Fib.AssemblyInfoInputs.cache
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\obj\Debug\netcoreapp2.0\Fib.AssemblyInfo.cs
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\obj\Debug\netcoreapp2.0\Fib.dll
+M:\Users\Jackson\Documents\GitStuff\leetcode-problems\Fib\obj\Debug\netcoreapp2.0\Fib.pdb
