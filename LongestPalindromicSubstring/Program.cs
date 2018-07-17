@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*
+    Author: Jackson Duke
+
+    Problem     - https://leetcode.com/problems/longest-palindromic-substring/
+    Submission  - https://leetcode.com/submissions/detail/156004788/
+    Details
+        Status: Accepted
+        Submitted: June, 2018
+        94/94 test cases passed
+        Runtime: 228ms
+        Notes: "Your runtime beats 33.66 % of csharp submissions."
+ */
+
+using System;
 
 namespace LongestPalindromicSubstring
 {
@@ -10,10 +23,7 @@ namespace LongestPalindromicSubstring
             string testCase2 = "aaaaasaaaaaa";
             Console.WriteLine(LongestPalindrome(testCase));
             Console.WriteLine(LongestPalindrome(testCase2));
-            Console.WriteLine(GivenSolution(testCase));
-            Console.WriteLine(GivenSolution(testCase2));
         }
-
         public static string LongestPalindrome(string s){
 
             string longestPalindrome = "";
@@ -22,7 +32,6 @@ namespace LongestPalindromicSubstring
             leftIndex = rightIndex = tempRightIndex = 0;
 
             while(rightIndex < s.Length){
-
                 while(rightIndex < s.Length && s[leftIndex] == s[rightIndex]){
                     temporaryPalindrome = s.Substring(leftIndex, (1 + rightIndex - leftIndex));
                     ++rightIndex;
@@ -43,28 +52,6 @@ namespace LongestPalindromicSubstring
             }
 
             return longestPalindrome;
-        }
-        public static string GivenSolution(string s){
-            int start = 0, end = 0;
-            for(int i = 0; i < s.Length; i++){
-                int len1 = expandAroundCenter(s, i, i);
-                int len2 = expandAroundCenter(s, i, i + 1);
-                int len = Math.Max(len1, len2);
-                if(len > end - start){
-                    start = i - (len - 1)/2;
-                    end = i + len/2;
-                }
-            }
-            return s.Substring(start, end + 1);
-        }
-
-        private static int expandAroundCenter(string s, int left, int right){
-            int L = left, R = right;
-            while(L >= 0 && R < s.Length && s[L] == s[R]){
-                L--;
-                R++;
-            }
-            return R - L - 1;
         }
     }
 }

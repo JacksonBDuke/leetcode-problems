@@ -1,4 +1,18 @@
-﻿using System;
+﻿/*
+    Author: Jackson Duke
+
+    Problem     - https://leetcode.com/problems/string-to-integer-atoi/
+    Submission  - https://leetcode.com/submissions/detail/159148654/
+    Details
+        Status: Accepted
+        Submitted: June, 2018
+        1079/1079 test cases passed
+        Runtime: 88ms
+        Notes: "Your runtime beats 97.89 % of csharp submissions"
+        
+*/
+
+using System;
 
 namespace StringToInteger
 {

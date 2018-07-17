@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*
+    Author: Jackson Duke
+
+    Problem     - https://leetcode.com/problems/reverse-integer/description/
+    Submission  - https://leetcode.com/submissions/detail/157094855/
+    Details
+        Status: Accepted
+        Submitted: June, 2018
+        1032/1032 test cases passed
+        Runtime: 52ms
+        Notes: "Your runtime beats 41.65 % of csharp submissions."
+ */
+
+using System;
 
 namespace ReverseInteger
 {

@@ -40,7 +40,7 @@ namespace ZigZagConversion
                 int numSpacesToPrint = spacer;
                 int columns = calculateColumns(spacer);
                 
-                string [,,] zigZagArray = new string[this.NumRows, columns];
+                string [,] zigZagArray = new string[this.NumRows, columns];
 
                 
 
